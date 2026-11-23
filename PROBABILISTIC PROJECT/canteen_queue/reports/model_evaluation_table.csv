@@ -1,0 +1,8 @@
+Model / Predictor,MAE (min),RMSE (min),R² Score
+Weighted Ensemble,0.547,1.312,0.9464
+Analytic M/M/c,0.517,1.323,0.9455
+Bayesian-Updated M/M/c,0.517,1.323,0.9455
+Normal Equations,0.801,1.545,0.9257
+Ridge Regression,0.801,1.545,0.9257
+SVD Pseudo-Inverse,0.801,1.545,0.9257
+Modified Gram-Schmidt QR,0.801,1.545,0.9257
